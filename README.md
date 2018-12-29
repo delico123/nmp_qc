@@ -19,7 +19,7 @@ The data used in this project can be downloaded [here](https://github.com/priba/
 ## Bibliography
 
 - [1] Gilmer *et al.*, [Neural Message Passing for Quantum Chemistry](https://arxiv.org/pdf/1704.01212.pdf), arXiv, 2017.
-- [2] Duvenaud *et al.*, [Convolutional Networks on Graphs for Learning Molecular Fingerprints](https://arxiv.org/abs/1606.09375), NIPS, 2015.
+- [2] Duvenaud *et al.*, [Convolutional Networks on Graphs for Learning Molecular Fingerprints](https://arxiv.org/abs/1509.09292), NIPS, 2015.
 - [3] Li *et al.*, [Gated Graph Sequence Neural Networks](https://arxiv.org/abs/1511.05493), ICLR, 2016. 
 - [4] Battaglia *et al.*, [Interaction Networks for Learning about Objects](https://arxiv.org/abs/1612.00222), NIPS, 2016.
 - [5] Kipf *et al.*, [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907), ICLR, 2017
